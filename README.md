@@ -1,7 +1,7 @@
 # max_plus_win_rate
 How to pick a hero in dota2 based on win rate list on max+.
 
-python GetData.py
+python GetData.py  
 python WinRateList.py  
 p show the picks  
 l show the win rate list  
